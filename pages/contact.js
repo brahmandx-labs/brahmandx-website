@@ -9,7 +9,7 @@ export default function Contact() {
           We'd love to hear from you! Whether it's collaboration, queries, or feedback.
         </p>
         <ul className="space-y-3 text-md text-gray-800 dark:text-gray-300">
-          <li>Email: <strong>brahmandxinnovations@gmail.com</strong></li>
+          <li>Company Email: <strong>info@brahmandx.com</strong></li>
           <li>Founder: <strong>Devanand Yadav – devanand@brahmandx.com</strong></li>
           <li>Website: <a className="text-blue-500 hover:underline" href="https://brahmandx.com" target="_blank">brahmandx.com</a></li>
         </ul>
